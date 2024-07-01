@@ -31,20 +31,20 @@
   
 7. Инстументы  
    7.1. Обработка информации  
-       7.1.1. NumPy  
-       7.1.2. Pandas  
-       7.1.3. Matplotlib  
-       7.1.4. Pillow  
+       ⋅⋅7.1.1. NumPy  
+       ⋅⋅7.1.2. Pandas  
+       ⋅⋅7.1.3. Matplotlib  
+       ⋅⋅7.1.4. Pillow  
    7.2. Базы данных/Брокеры сообщений  
-       7.2.1. SQLAlchemy  
-       7.2.2. pymongo  
-       7.2.3. kafka-python  
-       7.2.4. RabbitMQ  
-       7.2.5. Redis  
+       ⋅⋅7.2.1. SQLAlchemy  
+       ⋅⋅7.2.2. pymongo  
+       ⋅⋅7.2.3. kafka-python  
+       ⋅⋅7.2.4. RabbitMQ  
+       ⋅⋅7.2.5. Redis  
    7.3. Сервисы  
-       7.3.1. gspread  
-       7.3.2. TGStat  
-       7.3.3. Geohelper  
+       ⋅⋅7.3.1. gspread  
+       ⋅⋅7.3.2. TGStat  
+       ⋅⋅7.3.3. Geohelper  
   
 8. Контейнеры  
    8.1. Docker  
@@ -56,4 +56,16 @@
   
 10. Тестирование  
    10.1. PyTest  
-   10.2. unittest  
+   10.2. unittest
+
+
+
+
+# Содержание
+
+## Предисловие
+
+## Чистый код
+### Шифрование
+* [M16STR](https://github.com/txello/M16STR) - Ассимитричное шифрование.\
+  В качестве входных данных используется сообщение, словарь символов и пароль в качестве закрытого ключа.
