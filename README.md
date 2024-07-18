@@ -79,3 +79,8 @@
 ### aiogram
 * [tgbot-template](https://github.com/txello/tgbot-template) - Шаблон для профессиональной работы с aiogram.\
   Используется определённый настраиваемый шаблон, внутри которого можно запустить локальный Веб-сервер на `aiohttp`.
+
+## Инструменты
+### Numpy
+* [Обработка данных котировок акции](https://github.com/txello/portfolio_numpy_1) - Получение котировок акций и их обработка.\
+  Используется `numpy`, `pandas` и `yfinance`
