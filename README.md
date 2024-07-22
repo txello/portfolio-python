@@ -32,7 +32,7 @@
 7. Инстументы  
    7.1. Обработка информации  
        ⋅⋅7.1.1. [NumPy](#numpy)  
-       ⋅⋅7.1.2. Pandas  
+       ⋅⋅7.1.2. [Pandas](#pandas)  
        ⋅⋅7.1.3. Matplotlib  
        ⋅⋅7.1.4. Pillow  
    7.2. Базы данных/Брокеры сообщений  
@@ -84,3 +84,6 @@
 ### Numpy
 * [Обработка данных котировок акции](https://github.com/txello/portfolio_numpy_1) - Получение котировок акций и их обработка.\
   Используется `numpy`, `pandas` и `yfinance`
+### Pandas
+* [MorfyDB](https://github.com/txello/morfydb) - Локальная База данных на основе Pandas.\
+  Работает как ORM. Есть возможность использования настроек для колонок (`index`, `default` и т.п.)
