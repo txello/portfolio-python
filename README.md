@@ -33,7 +33,7 @@
    7.1. Обработка информации  
        ⋅⋅7.1.1. [NumPy](#numpy)  
        ⋅⋅7.1.2. [Pandas](#pandas)  
-       ⋅⋅7.1.3. Matplotlib  
+       ⋅⋅7.1.3. [Matplotlib](#matplotlib)  
        ⋅⋅7.1.4. Pillow  
    7.2. Базы данных/Брокеры сообщений  
        ⋅⋅7.2.1. SQLAlchemy  
