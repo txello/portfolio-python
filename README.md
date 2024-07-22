@@ -87,3 +87,7 @@
 ### Pandas
 * [MorfyDB](https://github.com/txello/morfydb) - Локальная База данных на основе Pandas.\
   Работает как ORM. Есть возможность использования настроек для колонок (`index`, `default` и т.п.)
+
+### Matplotlib
+* [Онлайн анализ данных](https://github.com/txello/portfolio_matplotlib_1) - Пример онлайн анализа данных.\
+  Используется `pandas`, `matplotlib` и данные с нейроинтейфейса за указанный период
