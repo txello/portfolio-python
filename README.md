@@ -10,26 +10,27 @@
 3. Сайты  
    3.1. Django  
    3.2. Flask  
-   3.3. FastAPI  
+   3.3. FastAPI   
+   3.4. Streamlit   
   
-4. Парсеры  
+5. Парсеры  
    4.1. Selenium  
    4.2. BeautifulSoup  
    4.3. Requests  
   
-5. Боты  
+6. Боты  
    5.1. [aiogram](#aiogram)  
    5.2. VKBottle  
    5.3. discord.py  
   
-6. Машинное обучение/Нейросети  
+7. Машинное обучение/Нейросети  
    6.1. PyTorch  
    6.2. TensorFlow  
    6.3. Keras  
    6.4. pyTesseract  
    6.5. EasyOCR  
   
-7. Инстументы  
+8. Инстументы  
    7.1. Обработка информации  
        ⋅⋅7.1.1. [NumPy](#numpy)  
        ⋅⋅7.1.2. [Pandas](#pandas)  
@@ -46,15 +47,15 @@
        ⋅⋅7.3.2. TGStat  
        ⋅⋅7.3.3. Geohelper  
   
-8. Контейнеры  
+9. Контейнеры  
    8.1. Docker  
    8.2. Kubernetes   
   
-9. Очереди  
+10. Очереди  
    9.1. Celery  
    9.2. Python RQ  
   
-10. Тестирование  
+11. Тестирование  
    10.1. PyTest  
    10.2. unittest
 
