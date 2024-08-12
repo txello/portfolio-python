@@ -10,7 +10,7 @@
 3. Сайты  
    3.1. Django  
    3.2. [Flask](#flask)   
-   3.3. FastAPI   
+   3.3. [FastAPI](#fastapi)   
    3.4. Streamlit   
    3.5. SQLAlchemy Admin   
   
@@ -80,6 +80,10 @@
 ### Flask
 * [flask-template](https://github.com/txello/flask-template) - Шаблон для профессиональной работы с Flask.\
   Используется определённый шаблон, полностью настраиваемый и имеет способность к масштабированию.
+
+### FastAPI
+* [FastAPI](https://github.com/txello/fastapi-portfolio_1) - Система токенов.
+  Использует базу данных `MySQL`, ORM `SQLAlchemy+aiosql` и `EnvServ`. Проект позволяет Посмотреть/Создать/Удалить токены для определенного проекта.
 
 ## Боты
 ### aiogram
