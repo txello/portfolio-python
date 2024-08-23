@@ -11,7 +11,7 @@
    3.1. [Django](#django)  
    3.2. [Flask](#flask)   
    3.3. [FastAPI](#fastapi)   
-   3.4. Streamlit   
+   3.4. [Streamlit](#streamlit)   
    3.5. SQLAlchemy Admin   
   
 4. Парсеры  
@@ -92,6 +92,10 @@
 * [FastAPI](https://github.com/txello/fastapi-portfolio_1) - Система токенов.
   Использует базу данных `MySQL`, ORM `SQLAlchemy+aiosql` и `EnvServ`. Проект позволяет Посмотреть/Создать/Удалить токены для определенного проекта.
 
+### Streamlit
+* [Анализ финансового портфеля](https://github.com/txello/portfolio-streamlit_1]) - Чтение `.csv` и его анализ.\
+  Используется `pandas` и `matplotlib`
+
 ## Боты [(наверх)](#оглавление)
 ### aiogram
 * [tgbot-template](https://github.com/txello/tgbot-template) - Шаблон для профессиональной работы с aiogram.\
@@ -100,7 +104,7 @@
 ## Инструменты [(наверх)](#оглавление)
 ### Numpy
 * [Обработка данных котировок акции](https://github.com/txello/portfolio_numpy_1) - Получение котировок акций и их обработка.\
-  Используется `numpy`, `pandas` и `yfinance`
+  Используется `pandas` и `yfinance`
 ### Pandas
 * [MorfyDB](https://github.com/txello/morfydb) - Локальная База данных на основе Pandas.\
   Работает как ORM. Есть возможность использования настроек для колонок (`index`, `default` и т.п.)
