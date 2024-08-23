@@ -93,7 +93,7 @@
   Использует базу данных `MySQL`, ORM `SQLAlchemy+aiosql` и `EnvServ`. Проект позволяет Посмотреть/Создать/Удалить токены для определенного проекта.
 
 ### Streamlit
-* [Анализ финансового портфеля](https://github.com/txello/portfolio-streamlit_1]) - Чтение `.csv` и его анализ.\
+* [Анализ финансового портфеля](https://github.com/txello/portfolio-streamlit_1) - Чтение `.csv` и его анализ.\
   Используется `pandas` и `matplotlib`
 
 ## Боты [(наверх)](#оглавление)
