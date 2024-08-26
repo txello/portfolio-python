@@ -17,7 +17,7 @@
 4. Парсеры  
    4.1. Selenium  
    4.2. BeautifulSoup  
-   4.3. Requests  
+   4.3. [Requests](#requests)  
   
 5. Боты  
    5.1. [aiogram](#aiogram)  
@@ -95,6 +95,12 @@
 ### Streamlit
 * [Анализ финансового портфеля](https://github.com/txello/portfolio-streamlit_1) - Чтение `.csv` и его анализ.\
   Используется `pandas` и `matplotlib`
+
+## Парсеры [(наверх)](#оглавление)
+
+### Requests
+* [YouGile API](https://github.com/txello/YouGile) - Модели API для сервиса YouGile.
+  Основной стек: `pydantic` и `requests`.
 
 ## Боты [(наверх)](#оглавление)
 ### aiogram
