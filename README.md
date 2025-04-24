@@ -87,7 +87,7 @@
 ## Сайты [(наверх)](#оглавление)
 
 ### Django
-* [Система Задач](https://github.com/txello/portfolio-django-1) - Пример работы с Django RTF.\
+* [Система Задач](https://github.com/txello/portfolio-django-1) - Пример работы с Django DRF.\
   Также используется связка `RabbitMQ+Celery+Redis` для отправки уведомлений на почту о новой задаче в проекте.
 
 ### Flask
