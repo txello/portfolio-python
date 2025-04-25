@@ -57,6 +57,7 @@
 9. Очереди  
    9.1. Celery  
    9.2. Python RQ  
+   9.3. QTasks
   
 10. Тестирование  
    10.1. PyTest  
