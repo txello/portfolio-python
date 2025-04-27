@@ -40,7 +40,7 @@
        ⋅⋅7.1.3. [Matplotlib](#matplotlib)  
        ⋅⋅7.1.4. Pillow  
    7.2. Базы данных/Брокеры сообщений  
-       ⋅⋅7.2.1. SQLAlchemy  
+       ⋅⋅7.2.1. [SQLAlchemy](#sqlalchemy)  
        ⋅⋅7.2.2. pymongo  
        ⋅⋅7.2.3. kafka-python  
        ⋅⋅7.2.4. RabbitMQ  
@@ -125,3 +125,7 @@
 ### Matplotlib
 * [Онлайн анализ данных](https://github.com/txello/portfolio_matplotlib_1) - Пример онлайн анализа данных.\
   Используется `pandas`, `matplotlib` и данные с нейроинтейфейса за указанный период
+
+### SQLAlchemy
+* [Notion-Driver](https://github.com/txello/notiondriver) - Простой SQL драйвер для `Notion Database API`.\
+  Поддерживает SQL-запросы и включает SQLAlchemy Dialect.
